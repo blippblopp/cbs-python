@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="516.68604"
+   height="226.98378"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="software.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="102.7875"
+     inkscape:cy="141.30583"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1549"
+     inkscape:window-height="876"
+     inkscape:window-x="51"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2995"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-97.464px"
+       originy="-706.99222px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.464,-118.38618)">
+    <rect
+       style="fill:#cfff9e;fill-opacity:1;stroke:#aaaaaa;stroke-width:6.01554775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="508.10672"
+       height="194.08653"
+       x="103.03556"
+       y="148.27565" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="96"
+       y="142.36218"
+       id="text2991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2993"
+         x="96"
+         y="142.36218"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa">Software Requirements</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="160"
+       y="282.36218"
+       id="text2987-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989-4"
+         x="160"
+         y="282.36218" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3027"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(100.46875,91.126442)"><flowRegion
+         id="flowRegion3029"><rect
+           id="rect3031"
+           width="480"
+           height="193.93945"
+           x="19.53125"
+           y="47.29628" /></flowRegion><flowPara
+         id="flowPara3033" /><flowPara
+         id="flowPara3035" /><flowPara
+         id="flowPara3049">Linux or MAC OSX is a <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3063">great advantage</flowSpan>. Windows will work.</flowPara><flowPara
+         id="flowPara3051">Python 2.7.5</flowPara><flowPara
+         id="flowPara3053"
+         style="font-style:italic">        extra modules: mathlib, numpy, pandas</flowPara><flowPara
+         id="flowPara3059">IPython 1.0</flowPara><flowPara
+         id="flowPara3116"
+         style="font-style:italic">        extra modules: tornado, pyzmq, jinja2</flowPara><flowPara
+         id="flowPara3047"></flowPara><flowPara
+         id="flowPara3118">Instructions for setting up everything is found in the Installation notebook.       </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3069"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3071"><rect
+           id="rect3073"
+           width="21.09375"
+           height="25"
+           x="225.78125"
+           y="165.26503" /></flowRegion><flowPara
+         id="flowPara3075"></flowPara></flowRoot>  </g>
+</svg>

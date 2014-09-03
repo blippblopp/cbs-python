@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="348.14285"
+   height="262.99176"
+   id="svg5162"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="malloc_1.svg">
+  <defs
+     id="defs5164">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4011"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="119.91405"
+     inkscape:cy="146.09127"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1869"
+     inkscape:window-height="1056"
+     inkscape:window-x="1651"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5167">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-200.92857,-400.8663)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#110200;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="347.14285"
+       height="245.71428"
+       x="201.42857"
+       y="417.6438" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="200.28572"
+       y="411.07236"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="200.28572"
+         y="411.07236">Memory</tspan></text>
+    <rect
+       style="fill:#d8d5d5;fill-opacity:1;stroke:#110200;stroke-width:1.20998585;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="29.790014"
+       height="59.075726"
+       x="271.24786"
+       y="435.74881" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="214.00002"
+       y="469.78665"
+       id="text3042"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3044"
+         x="214.00002"
+         y="469.78665">data</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Mend)"
+       d="m 248.71429,464.9295 17.14286,0"
+       id="path3048"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360"
+       y="458.6438"
+       id="text4909"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="458.6438"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="tspan4965">data = []</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="481.1438"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="tspan4967" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#686868;fill-opacity:1;stroke:none;font-family:Sans"
+       x="313.78571"
+       y="540.6438"
+       id="text5064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="313.78571"
+         y="540.6438"
+         id="tspan5068"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#686868;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa">Piece of memory reserved</tspan><tspan
+         sodipodi:role="line"
+         x="313.78571"
+         y="555.6438"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#686868;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa"
+         id="tspan3827">for the data list</tspan></text>
+    <path
+       style="fill:none;stroke:#8a8a8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 292.14286,484.50092 c 1.27755,0.75026 2.77456,1.18118 3.92857,2.14285 1.1433,0.95276 1.46093,1.66964 2.5,2.85715 0.33259,0.38011 0.79126,0.65118 1.07143,1.07143 1.83939,2.75909 0.38849,1.36699 1.78571,3.92857 0.41108,0.75364 0.99602,1.40133 1.42857,2.14285 0.40239,0.68981 0.62845,1.47839 1.07143,2.14286 0.45506,0.6826 3.5808,4.15598 3.92857,4.64286 0.55787,0.78101 0.88225,1.71086 1.42857,2.5 0.52925,0.76447 1.24529,1.38625 1.78572,2.14286 0.65278,0.91389 1.09184,1.97403 1.78571,2.85714 1.39758,1.77874 2.65799,2.43648 4.28572,3.92857 1.84714,1.69321 2.24418,2.51521 4.28571,3.92857 0.78913,0.54633 1.7014,0.89618 2.5,1.42857 0.63425,0.42284 1.15146,1.00574 1.78571,1.42857 0.44299,0.29533 0.95239,0.47619 1.42858,0.71429 0.47619,0.2381 0.95238,0.47619 1.42857,0.71429 0.47619,0.23809 0.98559,0.41896 1.42857,0.71428 1.32397,0.88265 0.0655,0.71429 1.42857,0.71429"
+       id="path3025"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#686868;fill-opacity:1;stroke:none;font-family:Sans"
+       x="212.84187"
+       y="643.40863"
+       id="text5064-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="212.84187"
+         y="643.40863"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#686868;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa"
+         id="tspan3827-4">This is the system memory (RAM)</tspan></text>
+  </g>
+</svg>
