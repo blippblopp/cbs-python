@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
 ORIGIN
         1 ccgggtt
 //
-LOCUS       MyGene2                   17 bp    DNA              UNK 01-JAN-1980
+LOCUS       MyGene2                   18 bp    DNA              UNK 01-JAN-1980
 DEFINITION  My second gene
 ACCESSION   002
 VERSION     002
@@ -20,5 +20,5 @@ SOURCE      .
             .
 FEATURES             Location/Qualifiers
 ORIGIN
-        1 aaccgtcgtg tccttgg
+        1 acgttggtgt gcctggtt
 //
